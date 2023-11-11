@@ -11,5 +11,5 @@ The person who associated a work with this deed has dedicated the work to the pu
 You can copy, modify, distribute, and perform the work, even for commercial purposes, all without asking for permission.
 
 **Copy of the full CC0 legal code:**
-![CC0 Legal Code](https://creativecommons.org/publicdomain/zero/1.0/legalcode)
+[CC0 Legal Code](https://creativecommons.org/publicdomain/zero/1.0/legalcode)
 
