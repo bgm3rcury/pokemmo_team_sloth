@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<themes>
+  <images file="anim/ezgif-frame-004.png" filter="lineal">
+        <area name="bg-f0004" xywh="*"/>
+    </images>
+    <images file="anim/ezgif-frame-005.png" filter="lineal">
+        <area name="bg-f0005" xywh="*"/>
+    </images>
+    <images file="anim/ezgif-frame-006.png" filter="lineal">
+        <area name="bg-f0006" xywh="*"/>
+    </images>
+    <images file="anim/ezgif-frame-007.png" filter="lineal">
+        <area name="bg-f0007" xywh="*"/>
+    </images>
+    <images file="anim/ezgif-frame-008.png" filter="lineal">
+        <area name="bg-f0008" xywh="*"/>
+    </images>
+    <images file="anim/ezgif-frame-009.png" filter="lineal">
+        <area name="bg-f0009" xywh="*"/>
+    </images>
+    <images file="anim/ezgif-frame-010.png" filter="lineal">
+        <area name="bg-f0010" xywh="*"/>
+    </images>
+    <images file="anim/ezgif-frame-011.png" filter="lineal">
+        <area name="bg-f0011" xywh="*"/>
+    </images>
+    <images file="anim/ezgif-frame-012.png" filter="lineal">
+        <area name="bg-f0012" xywh="*"/>
+    </images>
+    <images file="anim/ezgif-frame-013.png" filter="lineal">
+        <area name="bg-f0013" xywh="*"/>
+    </images>
+    <images file="anim/ezgif-frame-014.png" filter="lineal">
+        <area name="bg-f0014" xywh="*"/>
+    </images>
+    <images file="anim/ezgif-frame-015.png" filter="lineal">
+        <area name="bg-f0015" xywh="*"/>
+    </images>
+    <images file="anim/ezgif-frame-016.png" filter="lineal">
+        <area name="bg-f0016" xywh="*"/>
+    </images>
+    <images file="anim/ezgif-frame-017.png" filter="lineal">
+        <area name="bg-f0017" xywh="*"/>
+    </images>
+    <images file="anim/ezgif-frame-018.png" filter="lineal">
+        <area name="bg-f0018" xywh="*"/>
+    </images>
+    <images file="anim/ezgif-frame-019.png" filter="lineal">
+        <area name="bg-f0019" xywh="*"/>
+    </images>
+    <images file="anim/ezgif-frame-020.png" filter="lineal">
+        <area name="bg-f0020" xywh="*"/>
+    </images>
+    <images file="anim/ezgif-frame-021.png" filter="lineal">
+        <area name="bg-f0021" xywh="*"/>
+    </images>
+    <images file="anim/ezgif-frame-022.png" filter="lineal">
+        <area name="bg-f0022" xywh="*"/>
+    </images>
+    <images file="anim/ezgif-frame-023.png" filter="lineal">
+        <area name="bg-f0023" xywh="*"/>
+    </images>
+    <images file="anim/ezgif-frame-024.png" filter="lineal">
+        <area name="bg-f0024" xywh="*"/>
+    </images>
+    <images file="anim/ezgif-frame-025.png" filter="lineal">
+        <area name="bg-f0025" xywh="*"/>
+    </images>
+    <images file="anim/ezgif-frame-026.png" filter="lineal">
+        <area name="bg-f0026" xywh="*"/>
+    </images>
+    <images file="anim/ezgif-frame-027.png" filter="lineal">
+        <area name="bg-f0027" xywh="*"/>
+    </images>
+    <images file="anim/ezgif-frame-028.png" filter="lineal">
+        <area name="bg-f0028" xywh="*"/>
+    </images>
+    <images file="anim/ezgif-frame-029.png" filter="lineal">
+        <area name="bg-f0029" xywh="*"/>
+    </images>
+    <images file="anim/ezgif-frame-030.png" filter="lineal">
+        <area name="bg-f0030" xywh="*"/>
+    </images>
+    <images file="anim/ezgif-frame-031.png" filter="lineal">
+        <area name="bg-f0031" xywh="*"/>
+    </images>
+    <images file="anim/ezgif-frame-032.png" filter="lineal">
+        <area name="bg-f0032" xywh="*"/>
+    </images>
+    <images file="anim/ezgif-frame-033.png" filter="lineal">
+        <area name="bg-f0033" xywh="*"/>
+    </images>
+    <images file="anim/ezgif-frame-034.png" filter="lineal">
+        <area name="bg-f0034" xywh="*"/>
+    </images>
+    <images file="anim/ezgif-frame-035.png" filter="lineal">
+        <area name="bg-f0035" xywh="*"/>
+    </images>
+    <images file="anim/ezgif-frame-036.png" filter="lineal">
+        <area name="bg-f0036" xywh="*"/>
+    </images>
+    <images file="anim/ezgif-frame-037.png" filter="lineal">
+        <area name="bg-f0037" xywh="*"/>
+    </images>
+    <images file="anim/ezgif-frame-038.png" filter="lineal">
+        <area name="bg-f0038" xywh="*"/>
+    </images>
+    <images file="anim/ezgif-frame-039.png" filter="lineal">
+        <area name="bg-f0039" xywh="*"/>
+    </images>
+    <images file="anim/ezgif-frame-040.png" filter="lineal">
+        <area name="bg-f0040" xywh="*"/>
+    </images>
+    <images file="anim/ezgif-frame-041.png" filter="lineal">
+        <area name="bg-f0041" xywh="*"/>
+    </images>
+    <images file="anim/ezgif-frame-042.png" filter="lineal">
+        <area name="bg-f0042" xywh="*"/>
+    </images>
+    <images file="anim/ezgif-frame-043.png" filter="lineal">
+        <area name="bg-f0043" xywh="*"/>
+    </images>
+    <images file="anim/ezgif-frame-044.png" filter="lineal">
+        <area name="bg-f0044" xywh="*"/>
+    </images>
+    <images file="anim/ezgif-frame-045.png" filter="lineal">
+        <area name="bg-f0045" xywh="*"/>
+    </images>
+    <images file="anim/ezgif-frame-046.png" filter="lineal">
+        <area name="bg-f0046" xywh="*"/>
+    </images>
+    <images file="anim/ezgif-frame-047.png" filter="lineal">
+        <area name="bg-f0047" xywh="*"/>
+    </images>
+    <images file="anim/ezgif-frame-048.png" filter="lineal">
+        <area name="bg-f0048" xywh="*"/>
+    </images>
+    <images file="anim/ezgif-frame-049.png" filter="lineal">
+        <area name="bg-f0049" xywh="*"/>
+    </images>
+    <images file="anim/ezgif-frame-050.png" filter="lineal">
+        <area name="bg-f0050" xywh="*"/>
+    </images>
+    <images file="anim/ezgif-frame-051.png" filter="lineal">
+        <area name="bg-f0051" xywh="*"/>
+    </images>
+    <images file="anim/ezgif-frame-052.png" filter="lineal">
+        <area name="bg-f0052" xywh="*"/>
+    </images>
+    <images file="anim/ezgif-frame-053.png" filter="lineal">
+        <area name="bg-f0053" xywh="*"/>
+    </images>
+    <images file="anim/ezgif-frame-054.png" filter="lineal">
+        <area name="bg-f0054" xywh="*"/>
+    </images>
+    <images file="anim/ezgif-frame-055.png" filter="lineal">
+        <area name="bg-f0055" xywh="*"/>
+    </images>
+    <images file="anim/ezgif-frame-056.png" filter="lineal">
+        <area name="bg-f0056" xywh="*"/>
+    </images>
+    <images file="anim/ezgif-frame-057.png" filter="lineal">
+        <area name="bg-f0057" xywh="*"/>
+    </images>
+    <images file="anim/ezgif-frame-058.png" filter="lineal">
+        <area name="bg-f0058" xywh="*"/>
+    </images>
+    <images file="anim/ezgif-frame-059.png" filter="lineal">
+        <area name="bg-f0059" xywh="*"/>
+    </images>
+    <images file="anim/ezgif-frame-060.png" filter="lineal">
+        <area name="bg-f0060" xywh="*"/>
+    </images>
+    <images file="anim/ezgif-frame-061.png" filter="lineal">
+        <area name="bg-f0061" xywh="*"/>
+    </images>
+    <images file="anim/ezgif-frame-062.png" filter="lineal">
+        <area name="bg-f0062" xywh="*"/>
+    </images>
+    <images file="anim/ezgif-frame-063.png" filter="lineal">
+        <area name="bg-f0063" xywh="*"/>
+    </images>
+    <images file="anim/ezgif-frame-064.png" filter="lineal">
+        <area name="bg-f0064" xywh="*"/>
+    </images>
+    <images file="anim/ezgif-frame-065.png" filter="lineal">
+        <area name="bg-f0065" xywh="*"/>
+    </images>
+    <images file="anim/ezgif-frame-066.png" filter="lineal">
+        <area name="bg-f0066" xywh="*"/>
+    </images>
+    <images file="anim/ezgif-frame-067.png" filter="lineal">
+        <area name="bg-f0067" xywh="*"/>
+    </images>
+    <images file="anim/ezgif-frame-068.png" filter="lineal">
+        <area name="bg-f0068" xywh="*"/>
+    </images>
+    <images file="anim/ezgif-frame-069.png" filter="lineal">
+        <area name="bg-f0069" xywh="*"/>
+    </images>
+    <images file="anim/ezgif-frame-070.png" filter="lineal">
+        <area name="bg-f0070" xywh="*"/>
+    </images>
+    <images file="anim/ezgif-frame-071.png" filter="lineal">
+        <area name="bg-f0071" xywh="*"/>
+    </images>
+    <images file="anim/ezgif-frame-072.png" filter="lineal">
+        <area name="bg-f0072" xywh="*"/>
+    </images>
+    <images file="anim/ezgif-frame-073.png" filter="lineal">
+        <area name="bg-f0073" xywh="*"/>
+    </images>
+    <images file="anim/ezgif-frame-074.png" filter="lineal">
+        <area name="bg-f0074" xywh="*"/>
+    </images>
+    <images file="anim/ezgif-frame-075.png" filter="lineal">
+        <area name="bg-f0075" xywh="*"/>
+    </images>
+    <images file="anim/ezgif-frame-076.png" filter="lineal">
+        <area name="bg-f0076" xywh="*"/>
+    </images>
+    <images file="anim/ezgif-frame-077.png" filter="lineal">
+        <area name="bg-f0077" xywh="*"/>
+    </images>
+    <images file="anim/ezgif-frame-078.png" filter="lineal">
+        <area name="bg-f0078" xywh="*"/>
+    </images>
+    <images file="anim/ezgif-frame-079.png" filter="lineal">
+        <area name="bg-f0079" xywh="*"/>
+    </images>
+    <images file="anim/ezgif-frame-080.png" filter="lineal">
+        <area name="bg-f0080" xywh="*"/>
+    </images>
+    <images file="anim/ezgif-frame-081.png" filter="lineal">
+        <area name="bg-f0081" xywh="*"/>
+    </images>
+    <images file="anim/ezgif-frame-082.png" filter="lineal">
+        <area name="bg-f0082" xywh="*"/>
+    </images>
+    <images file="anim/ezgif-frame-083.png" filter="lineal">
+        <area name="bg-f0083" xywh="*"/>
+    </images>
+    <images file="anim/ezgif-frame-084.png" filter="lineal">
+        <area name="bg-f0084" xywh="*"/>
+    </images>
+
+
+
+    <images>
+        <animation name="login-background-animation" timeSource="enabled">
+            <frame ref="bg-f0004" duration="100"/>
+            <frame ref="bg-f0005" duration="100"/>
+            <frame ref="bg-f0006" duration="100"/>
+            <frame ref="bg-f0007" duration="100"/>
+            <frame ref="bg-f0008" duration="100"/>
+            <frame ref="bg-f0009" duration="100"/>
+            <frame ref="bg-f0010" duration="100"/>
+            <frame ref="bg-f0011" duration="100"/>
+            <frame ref="bg-f0012" duration="100"/>
+            <frame ref="bg-f0013" duration="100"/>
+            <frame ref="bg-f0014" duration="100"/>
+            <frame ref="bg-f0015" duration="100"/>
+            <frame ref="bg-f0016" duration="100"/>
+            <frame ref="bg-f0017" duration="100"/>
+            <frame ref="bg-f0018" duration="100"/>
+            <frame ref="bg-f0019" duration="100"/>
+            <frame ref="bg-f0020" duration="100"/>
+            <frame ref="bg-f0021" duration="100"/>
+            <frame ref="bg-f0022" duration="100"/>
+            <frame ref="bg-f0023" duration="100"/>
+            <frame ref="bg-f0024" duration="100"/>
+            <frame ref="bg-f0025" duration="100"/>
+            <frame ref="bg-f0026" duration="100"/>
+            <frame ref="bg-f0027" duration="100"/>
+            <frame ref="bg-f0028" duration="100"/>
+            <frame ref="bg-f0029" duration="100"/>
+            <frame ref="bg-f0030" duration="100"/>
+            <frame ref="bg-f0031" duration="100"/>
+            <frame ref="bg-f0032" duration="100"/>
+            <frame ref="bg-f0033" duration="100"/>
+            <frame ref="bg-f0034" duration="100"/>
+            <frame ref="bg-f0035" duration="100"/>
+            <frame ref="bg-f0036" duration="100"/>
+            <frame ref="bg-f0037" duration="100"/>
+            <frame ref="bg-f0038" duration="100"/>
+            <frame ref="bg-f0039" duration="100"/>
+            <frame ref="bg-f0040" duration="100"/>
+            <frame ref="bg-f0041" duration="100"/>
+            <frame ref="bg-f0042" duration="100"/>
+            <frame ref="bg-f0043" duration="100"/>
+            <frame ref="bg-f0044" duration="100"/>
+            <frame ref="bg-f0045" duration="100"/>
+            <frame ref="bg-f0046" duration="100"/>
+            <frame ref="bg-f0047" duration="100"/>
+            <frame ref="bg-f0048" duration="100"/>
+            <frame ref="bg-f0049" duration="100"/>
+            <frame ref="bg-f0050" duration="100"/>
+            <frame ref="bg-f0051" duration="100"/>
+            <frame ref="bg-f0052" duration="100"/>
+            <frame ref="bg-f0053" duration="100"/>
+            <frame ref="bg-f0054" duration="100"/>
+            <frame ref="bg-f0055" duration="100"/>
+            <frame ref="bg-f0056" duration="100"/>
+            <frame ref="bg-f0057" duration="100"/>
+            <frame ref="bg-f0058" duration="100"/>
+            <frame ref="bg-f0059" duration="100"/>
+            <frame ref="bg-f0060" duration="100"/>
+            <frame ref="bg-f0061" duration="100"/>
+            <frame ref="bg-f0062" duration="100"/>
+            <frame ref="bg-f0063" duration="100"/>
+            <frame ref="bg-f0064" duration="100"/>
+            <frame ref="bg-f0065" duration="100"/>
+            <frame ref="bg-f0066" duration="100"/>
+            <frame ref="bg-f0067" duration="100"/>
+            <frame ref="bg-f0068" duration="100"/>
+            <frame ref="bg-f0069" duration="100"/>
+            <frame ref="bg-f0070" duration="100"/>
+            <frame ref="bg-f0071" duration="100"/>
+            <frame ref="bg-f0072" duration="100"/>
+            <frame ref="bg-f0073" duration="100"/>
+            <frame ref="bg-f0074" duration="100"/>
+            <frame ref="bg-f0075" duration="100"/>
+            <frame ref="bg-f0076" duration="100"/>
+            <frame ref="bg-f0077" duration="100"/>
+            <frame ref="bg-f0078" duration="100"/>
+            <frame ref="bg-f0079" duration="100"/>
+            <frame ref="bg-f0080" duration="100"/>
+            <frame ref="bg-f0081" duration="100"/>
+            <frame ref="bg-f0082" duration="100"/>
+            <frame ref="bg-f0083" duration="100"/>
+            <frame ref="bg-f0084" duration="100"/>
+        </animation>
+    </images>
+
+	
+	<theme name="logingui" ref="logingui">
+		<param name="background"><image>login-background-animation</image></param>
+   	</theme>
+	<theme name="characterselectgui" ref="characterselectgui">
+		<param name="background"><image>login-background-animation</image></param>
+   	</theme>
+
+</themes>
